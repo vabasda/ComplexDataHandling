@@ -1,4 +1,4 @@
-# Complex Data Handling — University Portfolio 🚀
+# Complex Data Handling
 
 This repository contains the complete implementations and reports for the three (3) laboratory projects developed for the advanced **"Complex Data Handling"** university course. All implementations have been built entirely from scratch using **Python**, simulating low-level operations of Database Management Systems (DBMS), spatial indexing structures, and complex query processing optimization.
 
